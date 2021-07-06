@@ -1,0 +1,4 @@
+[submodule "themes/apollo"]
+	path = themes/Apollo++
+	url = git@github.com:Eumeryx/hexo-theme-apollo
+	branch = ejs
