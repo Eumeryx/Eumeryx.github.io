@@ -1,0 +1,31 @@
+{
+  "name": "blog.eumeryx",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "new": "hexo new",
+    "dev": "hexo server",
+    "build": "hexo generate",
+    "clean": "hexo clean",
+    "deploy": "hexo deploy"
+  },
+  "hexo": {
+    "version": "6.2.0"
+  },
+  "dependencies": {
+    "@waline/emojis": "^1.0.1",
+    "hexo": "^6.2.0",
+    "hexo-browsersync": "^0.3.0",
+    "hexo-deployer-git": "^3.0.0",
+    "hexo-generator-archive": "^1.0.0",
+    "hexo-generator-feed": "^3.0.0",
+    "hexo-generator-index": "^2.0.0",
+    "hexo-generator-sitemap": "^3.0.1",
+    "hexo-generator-tag": "^1.0.0",
+    "hexo-html-minifier": "^1.0.0",
+    "hexo-renderer-ejs": "^2.0.0",
+    "hexo-server": "^3.0.0",
+    "katex": "^0.16.0",
+    "marked": "^4.0.17"
+  }
+}
