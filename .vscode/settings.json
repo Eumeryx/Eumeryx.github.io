@@ -1,0 +1,16 @@
+{
+    "emmet.includeLanguages": {
+        "ejs": "html",
+    },
+    "commentTranslate.hover.enabled": true,
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on",
+            "other": "on"
+        },
+        "editor.snippetSuggestions": "top",
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+    }
+}
