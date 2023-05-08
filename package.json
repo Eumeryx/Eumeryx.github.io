@@ -26,6 +26,6 @@
     "hexo-renderer-ejs": "^2.0.0",
     "hexo-server": "^3.0.0",
     "katex": "^0.16.0",
-    "marked": "^4.0.17"
+    "marked": "^5.0.1"
   }
 }
